@@ -1,0 +1,5 @@
+log.csv
+vunit_out
+error.csv
+*.pyc
+.venv
